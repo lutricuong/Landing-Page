@@ -85,3 +85,22 @@ ul a {
     display: flex;
     gap: 28px;
 }
+
+
+.body3 {
+    background-color: #E5E7EB;
+    padding: 80px 160px;
+}
+
+.body3in {
+    font-size: 28px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.body3quote {
+    font-size: 28px;
+    font-weight: 900;
+    color: #1F2937; 
+    text-align: end;
+}
