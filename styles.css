@@ -15,6 +15,7 @@ body {
     display: flex;
     padding: 80px 120px;
     gap: 16px;
+    flex-wrap: wrap;
 }
 .body1in {
     display: flex;
@@ -86,8 +87,12 @@ ul a {
 .body2content {
     display: flex;
     gap: 30px;
+    flex-wrap: wrap;
 }
 
+.body2contentin {
+    flex: 1;
+}
 
 .body3 {
     background-color: #E5E7EB;
